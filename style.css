@@ -6,7 +6,7 @@
     min-height: 100vh;
     width: 100%;
     background-image: linear-
-    gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/images.jpg);
+    gradient(rgba(1, 5, 15, 0.74),rgba(4,9,30,0.7)),url(images/images.jpg);
     
     background-position: center;
     background-size: cover;
